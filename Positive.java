@@ -11,5 +11,5 @@ class Positive{
             System.out.println("The number is negative");
             
         }
-        }
+    }
     }
